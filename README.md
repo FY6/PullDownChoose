@@ -1,2 +1,2 @@
 # PullDownChoose
-下拉选择
+下拉选择：其实这是很简单的一个自定义控件，其中使用PopupWindow作为弹出窗口，PopupWindow的布局简单使用ListView
